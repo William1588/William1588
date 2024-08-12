@@ -1,7 +1,7 @@
 - 👋 Olá, eu sou o William, mas, pode me chamar de Will.
 - 🌱 Estou fazendo aulas no Alura.
 - 💞️ Este é um perfil para compartilhar meus projetos.
-- 
+  
  Meu contato é wd35290@gmail.com
 
 <!---
